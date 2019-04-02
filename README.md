@@ -1,11 +1,9 @@
 # bomberman-html5-canvas
 
 <h2>Descrição</h2>
-<br/>
 <p>Este é um projeto de teste que desenvolvi na época que o html5 com canvas foi lançado - por volta de 2011/2012. Ele é um pequeno jogo incompleto do bomberman. Você pode utilizar as setas do teclado para andar e espaço para soltar uma bomba no chão.
 Também utilizei sprits para desenhar o bomberman andando.</p>
 <h2>Como executar?</h2>
-<br/>
 <p>Para executar o projeto, basta abrir o arquivo "tela.html" em um navegador como Firefox ou Chrome.</p>
 <p>Todo o código está no "game.js", começando pelo método main();</p>
 <p>Trabalhei nesse projetinho de testes por uma semana, apenas como uma PoC, logo, não me importei em dividir o código na época, nem continuei o projeto.</p>
